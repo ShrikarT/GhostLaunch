@@ -20,3 +20,6 @@ temp-register-proof.json
 temp-register-inputs.json
 /deployments
 /generated-types
+
+# leaked wallet material
+user-keys-wallet-*.json
